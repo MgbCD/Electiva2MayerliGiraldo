@@ -1,74 +1,83 @@
 {
-  "tasks":
-  [
+  "tasks": [
     {
       "id": 1,
-      "description": "Preparar presentación para la reunión de ventas",
+      "name": "Task 1",
+      "description": "Complete monthly report module",
       "createdDate": "2024-02-27",
-      "dueDate": "2024-03-03",
+      "dueDate": "2024-03-05",
       "status": "pending"
     },
     {
       "id": 2,
-      "description": "Realizar investigación de mercado",
-      "createdDate": "2024-02-27",
-      "dueDate": "2024-03-10",
+      "name": "Task 2",
+      "description": "Prepare presentation slides for the meeting",
+      "createdDate": "2024-02-25",
+      "dueDate": "2024-03-03",
       "status": "in_progress"
     },
     {
       "id": 3,
-      "description": "Organizar evento de lanzamiento del producto",
-      "createdDate": "2024-02-26",
-      "dueDate": "2024-03-05",
+      "name": "Task 3",
+      "description": "Send project proposal to the client",
+      "createdDate": "2024-02-20",
+      "dueDate": "2024-02-28",
       "status": "completed"
     },
     {
       "id": 4,
-      "description": "Actualizar sitio web de la empresa",
-      "createdDate": "2024-02-25",
-      "dueDate": "2024-03-01",
+      "name": "Task 4",
+      "description": "Review and respond to emails",
+      "createdDate": "2024-02-26",
+      "dueDate": "2024-02-27",
       "status": "pending"
     },
     {
       "id": 5,
-      "description": "Realizar pruebas de usabilidad",
+      "name": "Task 5",
+      "description": "Call the client for follow-up",
       "createdDate": "2024-02-24",
-      "dueDate": "2024-03-08",
+      "dueDate": "2024-02-28",
       "status": "in_progress"
     },
     {
       "id": 6,
-      "description": "Entrenamiento en habilidades de comunicación",
+      "name": "Task 6",
+      "description": "Update database schema",
       "createdDate": "2024-02-23",
-      "dueDate": "2024-03-02",
-      "status": "pending"
-    },
-    {
-      "id": 7,
-      "description": "Elaborar informe financiero trimestral",
-      "createdDate": "2024-02-22",
-      "dueDate": "2024-03-07",
+      "dueDate": "2024-02-25",
       "status": "completed"
     },
     {
-      "id": 8,
-      "description": "Desarrollar nuevas estrategias de marketing",
-      "createdDate": "2024-02-21",
-      "dueDate": "2024-03-04",
+      "id": 7,
+      "name": "Task 7",
+      "description": "Organize code repository",
+      "createdDate": "2024-02-22",
+      "dueDate": "2024-02-28",
       "status": "pending"
     },
     {
-      "id": 9,
-      "description": "Revisar contratos con proveedores",
-      "createdDate": "2024-02-20",
-      "dueDate": "2024-03-09",
+      "id": 8,
+      "name": "Task 8",
+      "description": "Research new libraries for project",
+      "createdDate": "2024-02-21",
+      "dueDate": "2024-03-01",
       "status": "in_progress"
     },
     {
+      "id": 9,
+      "name": "Task 9",
+      "description": "Prepare agenda for team meeting",
+      "createdDate": "2024-02-20",
+      "dueDate": "2024-02-26",
+      "status": "completed"
+    },
+    {
       "id": 10,
-      "description": "Implementar sistema de gestión de proyectos",
+      "name": "Task 10",
+      "description": "Send payment reminder to client",
       "createdDate": "2024-02-19",
-      "dueDate": "2024-03-06",
+      "dueDate": "2024-02-28",
       "status": "pending"
     }
   ]
