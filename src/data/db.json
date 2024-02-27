@@ -1,0 +1,75 @@
+{
+  "tasks":
+  [
+    {
+      "id": 1,
+      "description": "Preparar presentación para la reunión de ventas",
+      "createdDate": "2024-02-27",
+      "dueDate": "2024-03-03",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "description": "Realizar investigación de mercado",
+      "createdDate": "2024-02-27",
+      "dueDate": "2024-03-10",
+      "status": "in_progress"
+    },
+    {
+      "id": 3,
+      "description": "Organizar evento de lanzamiento del producto",
+      "createdDate": "2024-02-26",
+      "dueDate": "2024-03-05",
+      "status": "completed"
+    },
+    {
+      "id": 4,
+      "description": "Actualizar sitio web de la empresa",
+      "createdDate": "2024-02-25",
+      "dueDate": "2024-03-01",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "description": "Realizar pruebas de usabilidad",
+      "createdDate": "2024-02-24",
+      "dueDate": "2024-03-08",
+      "status": "in_progress"
+    },
+    {
+      "id": 6,
+      "description": "Entrenamiento en habilidades de comunicación",
+      "createdDate": "2024-02-23",
+      "dueDate": "2024-03-02",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "description": "Elaborar informe financiero trimestral",
+      "createdDate": "2024-02-22",
+      "dueDate": "2024-03-07",
+      "status": "completed"
+    },
+    {
+      "id": 8,
+      "description": "Desarrollar nuevas estrategias de marketing",
+      "createdDate": "2024-02-21",
+      "dueDate": "2024-03-04",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "description": "Revisar contratos con proveedores",
+      "createdDate": "2024-02-20",
+      "dueDate": "2024-03-09",
+      "status": "in_progress"
+    },
+    {
+      "id": 10,
+      "description": "Implementar sistema de gestión de proyectos",
+      "createdDate": "2024-02-19",
+      "dueDate": "2024-03-06",
+      "status": "pending"
+    }
+  ]
+}
