@@ -4,15 +4,30 @@ const {saveToDb} = require("./utils")
 const getAllTask = () => {
     return DB.tasks;
 };
-const createNewTask = (newTask) => {
-    const isAlreadyAdd = DB.tasks.findIndex((task)=> task.name === newTask.name);
 
-    if(isAlreadyAdd){
+
+const getTaskById = (id) => {
+    if (!id) {
+        return null;
+    }
+    const task = DB.tasks.find((task) => task.id.toString() === id.toString());
+    return task;
+};
+const createNewTask = (newTask) => {
+    
+    const isAlreadyAdd = DB.tasks.findIndex((task)=> task.name === newTask.name);
+    console.log(isAlreadyAdd)
+    if(isAlreadyAdd!==-1){
+        console.log("Entre al if")
         return;
     }
 
     DB.tasks.push(newTask);
-    saveToDb(DB);
+    return DB.tasks;
 };
 
-module.exports = { getAllTask, createNewTask};
+const deleteTask = (id) => {
+    task.deleteTask
+}
+
+module.exports = { getAllTask, createNewTask, getTaskById};
