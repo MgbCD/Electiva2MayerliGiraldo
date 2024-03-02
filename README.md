@@ -31,7 +31,7 @@ Mayerli Giraldo Bermudez, github: https://github.com/MgbCD
    <h4 align="left">POST ⚙️</h4>
  <p align="left">Description:Adds a new item to the database.</p>
  <p align="left">Method:POST</p> 
- <p align="left"> <[POST](https://github.com/MgbCD/Electiva2MayerliGiraldo/assets/103133526/e3e4e9ff-64f4-4d7c-a6c3-24b5fe747995)</p> 
+ <p align="left"> [POST](https://github.com/MgbCD/Electiva2MayerliGiraldo/assets/103133526/e3e4e9ff-64f4-4d7c-a6c3-24b5fe747995)</p> 
 <p align="left"> [POST whit validator](https://github.com/MgbCD/Electiva2MayerliGiraldo/assets/103133526/3aeb723c-079e-4e71-aec7-7fc876c8ddc4)
  </p> 
 </div> 
