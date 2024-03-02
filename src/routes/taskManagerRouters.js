@@ -7,6 +7,6 @@ router
     .get('/task/:id', taskManagerController.getTaskById)
     .post('/task',taskManagerValidate.taskValidator,taskManagerController.createTask)
     .delete('/task/:id', taskManagerController.deleteTask)
-    .put('/task', taskManagerController.updateTask);
+    .put('/task/:id', taskManagerController.updateTask);
 
 module.exports = router;

@@ -33,14 +33,6 @@
       "status": "pending"
     },
     {
-      "id": 5,
-      "name": "Task 5",
-      "description": "Call the client for follow-up",
-      "createdDate": "2024-02-24",
-      "dueDate": "2024-02-28",
-      "status": "in_progress"
-    },
-    {
       "id": 6,
       "name": "Task 6",
       "description": "Update database schema",
@@ -54,15 +46,8 @@
       "description": "Organize code repository",
       "createdDate": "2024-02-22",
       "dueDate": "2024-02-28",
-      "status": "pending"
-    },
-    {
-      "id": 8,
-      "name": "Task 8",
-      "description": "Research new libraries for project",
-      "createdDate": "2024-02-21",
-      "dueDate": "2024-03-01",
-      "status": "in_progress"
+      "status": "pending",
+      "owner": "Ricardo   Montes"
     },
     {
       "id": 9,
@@ -78,6 +63,54 @@
       "description": "Send payment reminder to client",
       "createdDate": "2024-02-19",
       "dueDate": "2024-02-28",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "name": "Task 11",
+      "description": "Review project timeline",
+      "createdDate": "2024-02-25",
+      "dueDate": "2024-03-05",
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "name": "Task 12",
+      "description": "Attend client meeting",
+      "createdDate": "2024-02-28",
+      "dueDate": "2024-03-07",
+      "status": "in_progress"
+    },
+    {
+      "id": 13,
+      "name": "Task 13",
+      "description": "Update project documentation",
+      "createdDate": "2024-03-01",
+      "dueDate": "2024-03-10",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "name": "Task 14",
+      "description": "Prepare monthly report",
+      "createdDate": "2024-02-29",
+      "dueDate": "2024-03-15",
+      "status": "in_progress"
+    },
+    {
+      "id": 15,
+      "name": "Task 15",
+      "description": "Review team performance",
+      "createdDate": "2024-03-02",
+      "dueDate": "2024-03-12",
+      "status": "pending"
+    },
+    {
+      "id": 31,
+      "name": "Task 31",
+      "description": "Review project with the scrum",
+      "createdDate": "2024-02-25",
+      "dueDate": "2024-03-05",
       "status": "pending"
     }
   ]
